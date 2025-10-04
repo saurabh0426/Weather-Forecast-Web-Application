@@ -60,8 +60,7 @@ Click Get Weather to fetch and display the data.
 ⚠️ Note: This project uses public APIs and works entirely on the frontend, so no API key is required.
 
 📸 UI Preview
-
-Add screenshots here if available
+<img width="1919" height="894" alt="Screenshot 2025-10-05 022105" src="https://github.com/user-attachments/assets/0bccf5e9-ccce-41af-87f4-d15f1f0b02cc" />
 
 
 📌 Future Improvements
