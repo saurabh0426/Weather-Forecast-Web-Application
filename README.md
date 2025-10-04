@@ -19,6 +19,7 @@ This is a simple and elegant weather web application that allows users to search
 
 💬 Welcome banner with dismiss functionality
 
+
 📁 Project Structure
 
 index.html – The main HTML file that structures the layout
@@ -34,6 +35,7 @@ Update the UI dynamically
 Handle search input and time updates
 
 Show/hide welcome message
+
 
 🧠 Technologies Used
 
@@ -60,6 +62,7 @@ Click Get Weather to fetch and display the data.
 📸 UI Preview
 
 Add screenshots here if available
+
 
 📌 Future Improvements
 
